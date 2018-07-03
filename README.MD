@@ -28,5 +28,6 @@ for row in result:
 
 ```
 
+Deprecated
 
 #### author Kianbomba
